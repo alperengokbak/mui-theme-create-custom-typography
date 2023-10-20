@@ -1,4 +1,5 @@
-import { Stack, Typography } from "@mui/material";
+// Declaration MUI
+import { Typography } from "@mui/material";
 
 function App() {
   return <Typography variant="subtitle3">Hello World</Typography>;

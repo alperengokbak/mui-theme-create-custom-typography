@@ -1,9 +1,9 @@
 import React from "react";
 
-// You do not have to import this file in anywhere.
+// You do not have to import this file in anywhere. It's automatically imported.
 declare module "@mui/material/styles" {
+  // You can change the name with that you want.
   interface TypographyVariants {
-    // You can change the name with that you want.
     subtitle3: React.CSSProperties;
   }
 
